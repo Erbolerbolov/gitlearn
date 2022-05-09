@@ -212,6 +212,9 @@ class Post:
     def get_info(self):
         return f'{self.title} {self.body}'
 
+    def get_id(self):
+        return self.id
+
 obj1 = python_object[0]
 post = Post(obj1)
 # print(post.__dict__)

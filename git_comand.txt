@@ -6,3 +6,8 @@
     5.1. git remote -v
     5.2. git status
 6. git add file
+
+
+
+
+
