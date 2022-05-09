@@ -1,1 +1,8 @@
-fsdomfsmfmskfmsmk
+1. git init
+2. git config -- clobal (--local) user.name "name"
+3. git config -- clobal (--local) user.email "email"
+4. git config --list
+5. git remote add origin SSH 
+    5.1. git remote -v
+    5.2. git status
+6. git add file
